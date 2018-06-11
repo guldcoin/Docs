@@ -31,6 +31,34 @@ As an (very-simplified) example, the files on a computer's hard drive are organi
 
 .
 
+## Git and the Blocktree
+
+"We definitely need to add the Sub-Module explanation and how dependencies work to create a decentralized internet with version control.
+
+After the call closed, Ira explained to us how dependencies at specific snapshots of commits work to create a local auditable version of that collaborator's perspective."
+
+"The Git mechanics will imply social contracts and organization."
+
+Curently, Guld officers and executives need to audit transactions, and make sure their node is up to date so the network can operate correctly.
+
+Observers, witnesses, and validators. In a legal sense, we want to create a platform of data distribution authority that in court can be declared to be "fully witnessed". From the main repo: one snapshot in time (one commit), and that's how you localize the context of a node.
+
+A double-spend is considered malicious activity.
+
+.
+
+### Submodules: Guld's super-power
+
+This is how we identify the state of the world at a specific snapshot. We can acknowledge other repositories at a specific commit, validated and vouching for the information and data within up until that point.
+
+"I acknowledge that I have seen Fernando's state of affairs as of this point." Signing as witness, not vouching for the content. The ledger submodule is a repo in its own right. It is a copy of the ledger at a specific point in time that you acknowledge that you have revised -- making any changes to it may be financially and/or legally binding.
+
+Mech of signing as witness is same as that for signee/debtor. Need to differentiate the types of commits to make sure everyone/everything knows what transactions are happening, what a particular transaction was.
+
+"In the end, it's a network of evidence, an electronic paper trail."
+
+.
+
 ## Interacting with the Blocktree
 
 Signing the commit that contains a transaction is the method by which you sign the transaction.
