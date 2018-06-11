@@ -39,7 +39,7 @@ After the call closed, Ira explained to us how dependencies at specific snapshot
 
 "The Git mechanics will imply social contracts and organization."
 
-Curently, Guld officers and executives need to audit transactions, and make sure their node is up to date so the network can operate correctly.
+Node operators (curently, Guld officers and executives) need to audit transactions, and make sure their node is up to date so the network can operate correctly.
 
 Observers, witnesses, and validators. In a legal sense, we want to create a platform of data distribution authority that in court can be declared to be "fully witnessed". From the main repo: one snapshot in time (one commit), and that's how you localize the context of a node.
 
@@ -51,7 +51,7 @@ A double-spend is considered malicious activity.
 
 This is how we identify the state of the world at a specific snapshot. We can acknowledge other repositories at a specific commit, validated and vouching for the information and data within up until that point.
 
-"I acknowledge that I have seen Fernando's state of affairs as of this point." Signing as witness, not vouching for the content. The ledger submodule is a repo in its own right. It is a copy of the ledger at a specific point in time that you acknowledge that you have revised -- making any changes to it may be financially and/or legally binding.
+"I acknowledge that I have seen Fernando's state of affairs as of this point." Signing as witness, not vouching for the content. The ledger submodule is a repo in its own right. It is a copy of the ledger at a specific point in time that you acknowledge that you have revised — making any changes to it may be financially and/or legally binding.
 
 Mech of signing as witness is same as that for signee/debtor. Need to differentiate the types of commits to make sure everyone/everything knows what transactions are happening, what a particular transaction was.
 
@@ -68,6 +68,22 @@ Transactions must be signed by the account being _debited_.
 .
 
 ## Manipulating the Blocktree
+
+Filesystem operations
+
+Exploring: search for commits, search through nodes, search through included software (which is committed in Git) and frameworks and dependencies. "Git was built on all this, and it's all included in the Merkel tree."
+
+Talk about object permanence of the blocktree.
+
+Serving files vs serving commits is an advantage over blockchain: in blockchain, you have to download the full block file. with the tree, you can choose to be witness tot the pertinent information to you; the distributed nature of the network is not dependent on storage limitations. You don't need to keep a full copy of the entire tree, which lowers the resource entry barrier.
+
+.
+
+## Operating a Guld Node
+
+To operate a guld node, need to set up either git cmdline or guldFS.
+
+**Caution!** guldFS automates a lot of things, including signing and committing. There are a lot of details here that need to be worked out, and a lot of things a node operator would need to take into account before opting for guldFS.
 
 .
 
