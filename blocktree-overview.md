@@ -93,13 +93,21 @@ To operate a guld node, need to set up either git cmdline or guldFS.
 
 ### Guld Libraries
 
+Links to specifically chosen and well documented libraries. :)
+
 .
 
 ### Guld Applications
 
+Links to: guld-chrome wallet, gg-chrome.
+
 .
 
 ### Available Sample Code
+
+Links to specifically chosen and well documented code.
+
+Maybe it's best to point to the applications? If so, then we'll want to point out particular sections as examples — and make sure that all the code is very thoroughly _and accurately_ documented.
 
 .
 
