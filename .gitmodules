@@ -7,3 +7,33 @@
 [submodule "300e"]
 	path = 300e
 	url = git@bitbucket.org:isysd/documents-300e.git
+[submodule "mizim"]
+	path = mizim
+	url = git@bitbucket.org:mizim/documents-mizim.git
+[submodule "zimmi"]
+	path = zimmi
+	url = git@bitbucket.org:zimmiglobal/documents-zimmi.git
+[submodule "tigoctm"]
+	path = tigoctm
+	url = git@bitbucket.org:tigoctm/documents-tigoctm.git
+[submodule "raadyx"]
+	path = raadyx
+	url = git@bitbucket.org:raadyx/documents-raadyx.git
+[submodule "gg"]
+	path = gg
+	url = git@bitbucket.org:guldgames/documents-gg.git
+[submodule "casicielo"]
+	path = casicielo
+	url = git@bitbucket.org:isysd/documents-casicielo.git
+[submodule "bitt"]
+	path = bitt
+	url = git@bitbucket.org:isysd/documents-bitt.git
+[submodule "ptyglass/team"]
+	path = ptyglass/team
+	url = git@bitbucket.org:isysd/documents-ptyglass-team.git
+[submodule "ptyglass"]
+	path = ptyglass
+	url = git@bitbucket.org:isysd/documents-ptyglass.git
+[submodule "whaletank"]
+	path = whaletank
+	url = git@bitbucket.org:isysd/documents-whaletank.git
