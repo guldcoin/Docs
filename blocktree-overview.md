@@ -75,13 +75,13 @@ Exploring: search for commits, search through nodes, search through included sof
 
 Talk about object permanence of the blocktree.
 
-Serving files vs serving commits is an advantage over blockchain: in blockchain, you have to download the full block file. with the tree, you can choose to be witness tot the pertinent information to you; the distributed nature of the network is not dependent on storage limitations. You don't need to keep a full copy of the entire tree, which lowers the resource entry barrier.
+Serving files vs serving commits is an advantage over blockchain: in blockchain, you have to download the full block file. with the tree, you can choose to be witness to the pertinent information to you; the distributed nature of the network is not dependent on storage limitations. You don't need to keep a full copy of the entire tree, which lowers the resource entry barrier.
 
 .
 
 ## Operating a Guld Node
 
-To operate a guld node, need to set up either git cmdline or guldFS.
+To operate a guld node, you'll need to set up either git cmdline or guldFS.
 
 **Caution!** guldFS automates a lot of things, including signing and committing. There are a lot of details here that need to be worked out, and a lot of things a node operator would need to take into account before opting for guldFS.
 
