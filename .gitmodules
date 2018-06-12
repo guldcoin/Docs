@@ -1,3 +1,6 @@
 [submodule "isysd"]
 	path = isysd
 	url = git@bitbucket.org:isysd/isysd.git
+[submodule "guld"]
+	path = guld
+	url = git@bitbucket.org:guld/documents-guld.git
