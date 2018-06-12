@@ -4,3 +4,6 @@
 [submodule "isysd"]
 	path = isysd
 	url = git@bitbucket.org:isysd/documents-isysd.git
+[submodule "300e"]
+	path = 300e
+	url = git@bitbucket.org:isysd/documents-300e.git
