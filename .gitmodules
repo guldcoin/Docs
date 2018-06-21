@@ -37,3 +37,6 @@
 [submodule "whaletank"]
 	path = whaletank
 	url = git@bitbucket.org:isysd/documents-whaletank.git
+[submodule "battlestarcap"]
+	path = battlestarcap
+	url = git@bitbucket.org:battlestarcap/documents-battlestarcap.git
