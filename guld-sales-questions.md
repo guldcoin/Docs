@@ -12,7 +12,7 @@ The Internet as we know it today is rife with identity and other data theft, and
 
 Enable the internet to better support the secure execution of human contracts.
 
-We propose a human consensus network, with cryptographic security and identity verification. We aim to allow people to take back control of their data and their digital identities. 
+We propose a human consensus network, with cryptographic security and identity verification. We aim to allow people to take back control of their data and their digital identities.
 
 ## How does it work?
 
