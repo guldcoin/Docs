@@ -21,18 +21,20 @@ GULD tokens are used to register the names on the network, designed for manageme
 
 ## Blocktree vs Blockchain
 
-Though similar in some ways to the blockchain, our blocktree infrastructure is better in many ways:   
-Similarities: 
--	Both are immutable, & each change builds off previous change over linear time.
--	Both are public records. Not all parts of the Guld blocktree are public, however the ledger is public.
-The difference: A blockchain is linear, whereas a blocktree, in data-structure terms, is a tree. 
--	The tree has a root & an arbitrary number of branches (folders) & leaves (data items, i.e. files). A given branch can have arbitrary number of sub-branches, & so on, ad infinitum.
-Why the blocktree is better than blockchain:
--	Blocktree can host an infinite number of blockchains
--	Efficient Scalability 
--	Controlled Security 
--	Lower technological overhead cost 
+Though similar in some ways to the blockchain, our blocktree infrastructure is better in many ways.
 
+Similarities:
+
+- Both are immutable, & each change builds off previous change over linear time.
+-	Both are public records. Not all parts of the Guld blocktree are public, however the ledger is public. The difference: A blockchain is linear, whereas a blocktree, in data-structure terms, is a tree.
+- The tree has a root and an arbitrary number of branches (folders) & leaves (data items, i.e., files). A given branch can have arbitrary number of sub-branches, and so on, ad infinitum.
+
+Why the blocktree is better than blockchain:
+
+- Blocktree can host an infinite number of blockchains
+- Efficient scalability
+- Controlled security
+- Lower technological overhead cost
 
 
 ## The Guld Network
@@ -50,15 +52,22 @@ People, groups, devices, and entire blockchains can all be registered on the Gul
 
 
 ## Guld Team
-Ira Miller, Founder & Maintainer 
+
+Ira Miller, Founder & Maintainer
+
 Cindy Zimmerman, Co-Founder, Head of Security
+
 Fernando Dreyfus, Chief Executive Officer
+
 Juan Kong, Chief Operations Officer
+
 Steven Haddadian, Chief Marketing Officer
-Chris Mejia, Head of UX 
+
+Chriss Mejia, Head of UX
 
 
-## Guld Pricing 
+## Guld Pricing
+
 Prices are as follows, in GULD:
 
 Category|GULD Price|Limit
@@ -71,5 +80,6 @@ Individual chain address|0.1|1
 Group chain address|1|10
 
 ## Current Status of Guld
-As of today, obtaining GULD is entirely peer to peer, meaning that the OTC market is direct sales from GULD owners to GULD buyers. Transactions are fulfilled through our Telegram Guld bot, GAI. This can be done in private conversations with the bot, or in groups witnessed by all participants in the transaction. In addition to this, we're close to releasing an automated sales channel where users can buy GULD directly, these developments will be shared in this telegram channel and through all of our online presence. 
+
+As of today, obtaining GULD is entirely peer to peer, meaning that the OTC market is direct sales from GULD owners to GULD buyers. Transactions are fulfilled through our Telegram Guld bot, GAI. This can be done in private conversations with the bot, or in groups witnessed by all participants in the transaction. In addition to this, we're close to releasing an automated sales channel where users can buy GULD directly, these developments will be shared in this telegram channel and through all of our online presence.
 
