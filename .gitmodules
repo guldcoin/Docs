@@ -40,3 +40,6 @@
 [submodule "battlestarcap"]
 	path = battlestarcap
 	url = git@bitbucket.org:battlestarcap/documents-battlestarcap.git
+[submodule "cz"]
+	path = cz
+	url = git@bitbucket.org:cz/documents-cz.git
